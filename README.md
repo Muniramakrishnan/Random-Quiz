@@ -13,7 +13,7 @@ To run the Random Quiz Mini Project, follow these steps:
 3. **Run the Quiz:**
    - Open your terminal or command prompt.
    - Navigate to the directory where the script is located.
-   - Run the script by executing the command: `python random_quiz.py`.
+   - Run the script by executing the command: `Random_Quiz.py`.
 
 4. **Answer the Questions:**
    - The program will randomly select questions from a predefined list and present them to you.
@@ -27,7 +27,7 @@ To run the Random Quiz Mini Project, follow these steps:
 
 ## Project Structure
 
-The Random Quiz Mini Project consists of a Python script (`random_quiz.py`) with the following components:
+The Random Quiz Mini Project consists of a Python script (`Random_Quiz.py`) with the following components:
 
 - A list of 30 questions and their corresponding answers.
 - Functions for selecting a random question and checking the user's answers.
@@ -40,7 +40,7 @@ You can easily customize the quiz by modifying the `questions` list to include y
 
 ## Author
 
-This Random Quiz Mini Project was created by [Your Name].
+This Random Quiz Mini Project was created by [Muniramakrishnan].
 
 ## License
 
